@@ -1,0 +1,1 @@
+Healthii will be a website for uploading health-related articles. Topics will include Technology, Science, Global, News, History and Family. Users will have the option of upvoting and downvoting each article.
